@@ -1,0 +1,38 @@
+/* h1: selector
+    color: property
+    red: value
+*/
+
+h1 {
+    color: red; /* declaration */
+    font-size: 18px; /* declaration */
+}
+
+p {
+    color: blue; /* declaration */
+}
+
+div
+{
+    width: 500px;
+    height: 200px;
+    background: aqua;
+    margin-bottom: 20px;
+}
+
+div p {
+    color: black; /* declaration */
+}
+
+.text-bk {
+    color: red;
+    text-align: right;
+         }
+
+.first-div {
+    background-color: blue;
+           } 
+
+
+
+
