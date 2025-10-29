@@ -84,4 +84,9 @@ body {
     filter: saturate(1);
 }
 
+.nav_lower {
+    min-height: 10vh;
+    background: var(--secondary-color);
+}
+
 /*navbar ends here*/
